@@ -1,5 +1,5 @@
 {
-  "name": "@gv/huejay",
+  "name": "@gonzalovazquez/huejay",
   "version": "1.9.1",
   "description": "Philips Hue client for Node.js",
   "keywords": [
